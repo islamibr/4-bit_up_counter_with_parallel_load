@@ -11,7 +11,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="3-and.vi" Type="VI" URL="../3-and.vi"/>
-		<Item Name="4 Bit Up Counter With Parallel Load.vi" Type="VI" URL="../4 Bit Up Counter With Parallel Load.vi"/>
+		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
 		<Item Name="4-and.vi" Type="VI" URL="../4-and.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
